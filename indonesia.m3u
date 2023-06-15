@@ -1,30 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PLAYLIST INI GRATIS!" tvg-logo="" group-title="Indonesia",PLAYLIST INI GRATIS! TIDAK DIJUAL BELIKAN
 https://www.veed.io/embed/1e98505c-71c1-4c14-9fa6-581ecaed081b
-#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 01. ETV Live Event
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298491
-#EXTINF:-1 tvg-id="" tvg-name="ID: 02. ETV Live Event 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 02. ETV Live Event 02
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298492
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Angry Birds Toons
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298493
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 BabyBus Indonesia
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298494
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Donald Ducks
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298495
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Doraemon
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298496
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Just For Laughs
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298497
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Mr Bean Cartoon
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298498
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Mr. Bean Classic
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298499
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Tom And Jerry
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298500
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Upin Ipin
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298501
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Warkop DKI
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298502
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ID: ANIMAL PLANET
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157532
 #EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Indonesia",ID: Animax
