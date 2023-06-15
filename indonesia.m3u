@@ -358,25 +358,25 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16621
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/56191
 #EXTINF:-1 tvg-id="" tvg-name="ID: Soccer Channel" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Indonesia",ID: Soccer Channel
 http://anevi-live-channel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Plane (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Plane (2023)
 http://you.wendiella.sbs/xxx/plane-2023/4/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Ghosted (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Ghosted (2023)
 http://you.wendiella.sbs/xxx/ghosted-2023/9/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",65 (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",65 (2023)
 http://you.wendiella.sbs/xxx/65-2023/9/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Hunger (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Hunger (2023)
 http://you.wendiella.sbs/xxx/hunger-2023/9/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Operation Fortune (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Operation Fortune (2023)
 http://you.wendiella.sbs/xxx/operation-fortune-ruse-de-guerre-2023/4/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",The Last Kingdom - Seven Kings Must Die (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",The Last Kingdom - Seven Kings Must Die (2023)
 http://you.wendiella.sbs/xxx/the-last-kingdom-seven-kings-must-die-2023/9/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Shazam (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Shazam (2023)
 http://you.wendiella.sbs/xxx/shazam-fury-of-the-gods-2023/8/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Creed III (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Creed III (2023)
 http://you.wendiella.sbs/xxx/creed-iii-2023/6/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Tetris (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Tetris (2023)
 http://you.wendiella.sbs/xxx/tetris-2023/8/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD International",Assassin (2023)
+#EXTINF:0 tvg-id="ext" group-title="FILM",Assassin (2023)
 http://you.wendiella.sbs/xxx/assassin-2023/6/480.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="FILM",The Last of Us (2023) S1 E1
