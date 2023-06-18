@@ -488,9 +488,6 @@ https://anevia114.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWS08NE0KOwFa3OxOSWL69HepIXuTEEpwzg&usqp=CAU" group-title="Lifestyle",MNC Entertainment 
 https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-we4cUZx1qw_llLYeQ35gThHhq3FqmJYNLg&usqp=CAU" group-title="SPORT PREMIUM",SSC
-http://zz@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002802&extension=ts&play_token=Zulkarnain66
-
 #EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="SPORT PREMIUM",NBA TV
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941562&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="SPORT PREMIUM",beIN SPORTS 1
@@ -548,6 +545,8 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=t
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45570&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://substance.agency/wp-content/uploads/2016/06/fsp_10.jpg" group-title="SPORT PREMIUM",FOX SOCCER PLUS
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts&play_token=zulkarnain@.ts
+#EXTINF:-1 tvg-id="" tvg-name="ssc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-we4cUZx1qw_llLYeQ35gThHhq3FqmJYNLg&usqp=CAU" group-title="SPORT PREMIUM",SSC
+http://zz@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002802&extension=ts&play_token=Zulkarnain66
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="SPORT PREMIUM",BT Sport 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts&play_token=zulkarnain@.ts
