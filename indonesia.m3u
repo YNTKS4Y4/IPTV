@@ -7,6 +7,9 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 #EXTINF:0 tvg-id="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="LIVE EVENT", PERSEBAYA vs PERSIJA JAKARTA 
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162138
 
+#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",MOTO GP
+https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 #EXTINF:0 tvg-id="RCTI" group-title="Lokal" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157591.ts
 #EXTINF:0 tvg-id="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR 
