@@ -5,19 +5,6 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-we4cUZx1qw_llLYeQ35gThHhq3FqmJYNLg&usqp=CAU" group-title="SPORT",SSC 1
-http://zz@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002802&extension=ts&play_token=Zulkarnain66
-
-#EXTINF:0 tvg-id="INDONESIA VS ARGENTINA 1" group-title="EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmyzEG6Ktw2T06xJ9qAr3l3lCE1UAvT3v1Q&usqp=CAU",RCTI
-http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157591.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="INDONESIA VS ARGENTINA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmyzEG6Ktw2T06xJ9qAr3l3lCE1UAvT3v1Q&usqp=CAU" group-title="EVENT",MNC Sports 3
-https://anevia114.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 tvg-id="INDONESIA VS ARGENTINA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmyzEG6Ktw2T06xJ9qAr3l3lCE1UAvT3v1Q&usqp=CAU" group-title="EVENT",TyC Sports
-http://45.84.217.28:25461/live/nany1/nany1/86628.m3u8
-
 
 #EXTINF:0 tvg-id="RCTI" group-title="Lokal" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157591.ts
