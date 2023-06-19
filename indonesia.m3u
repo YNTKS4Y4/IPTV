@@ -38,7 +38,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Lokal", Indosiar 2
 https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="lokal", Indosiar 3
+#EXTINF: -1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal", Indosiar 3
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
