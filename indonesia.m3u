@@ -4,7 +4,7 @@ https://video.xx.fbcdn.net/v/t39.25447-2/353859644_242132808524400_4384655981484
 url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-id="INDONESIA VS ARGENTINA 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3ViJii0uSIV3IsWA5wbc6zTzc_6p8ZOrMw&usqp=CAU" group-title="EVENT",TyC Sports
+#EXTINF:-1 tvg-id="INDONESIA VS ARGENTINA 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmyzEG6Ktw2T06xJ9qAr3l3lCE1UAvT3v1Q&usqp=CAU" group-title="EVENT",TyC Sports
 http://45.84.217.28:25461/live/nany1/nany1/86628.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-we4cUZx1qw_llLYeQ35gThHhq3FqmJYNLg&usqp=CAU" group-title="SPORT",SSC 1
 http://zz@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1002802&extension=ts&play_token=Zulkarnain66
