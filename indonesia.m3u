@@ -522,26 +522,12 @@ https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainme
 
 #EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="Magenta Sport 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGPzCMY5_QIR5FK1v9NOurJ0pPKsLe3Et6w&usqp=CAU" group-title="SPORT PREMIUM",Magenta Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/195266
-#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="Magenta Sport 2 HD" tvg-logo="http://89.163.242.179:8080/images/bdf92fb6fd763c38efa81c78c6bdf579.png" group-title="SPORT PREMIUM",Magenta Sport 2 HD
+http:/#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ESPAÑA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="SPORT PREMIUM",EUROSPORT 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/195267
-#EXTINF:-1 tvg-id="Sport 3 - myTeamTV" tvg-name="Magenta Sport 3 HD" tvg-logo="http://89.163.242.179:8080/images/bdf92fb6fd763c38efa81c78c6bdf579.png" group-title="SPORT PREMIUM",Magenta Sport 3 HD
+http://pinkpanther.uk:8080/hRKvMQF7gA64/GzTvSfZBt2V9/25759
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ESPAÑA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="SPORT PREMIUM",EUROSPORT 2  FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/195268
-#EXTINF:-1 tvg-id="Sport 4 - myTeamTV" tvg-name="Magenta Sport 4 HD" tvg-logo="http://89.163.242.179:8080/images/bdf92fb6fd763c38efa81c78c6bdf579.png" group-title="SPORT PREMIUM",Magenta Sport 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/195269
-#EXTINF:-1 tvg-id="Sport 5 - myTeamTV" tvg-name="Magenta Sport 5 HD" tvg-logo="http://89.163.242.179:8080/images/bdf92fb6fd763c38efa81c78c6bdf579.png" group-title="SPORT PREMIUM",Magenta Sport 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/195270
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 1 HD" tvg-logo="" group-title="SPORT PREMIUM",DAZN EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/182146
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 2 HD" tvg-logo="" group-title="SPORT PREMIUM",DAZN EUROSPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://mimi.iptv-mim.com:8080/HaticeOzmen/Dfr339t0X7/182147
+http://pinkpanther.uk:8080/hRKvMQF7gA64/GzTvSfZBt2V9/25760
 
 #EXTINF:-1 tvg-id="" tvg-name="Sharjah Sports TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3b1c866c0f331e63458d52f79b1f1c6.jpg" group-title="SPORT PREMIUM",Sharjah Sports TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
