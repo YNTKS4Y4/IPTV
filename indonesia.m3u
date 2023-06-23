@@ -10,11 +10,11 @@ https://video.xx.fbcdn.net/v/t39.25447-2/354451468_24203108065954613_30849167824
 #EXTINF:0 tvg-id="RCTI" group-title="Lokal" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157591.ts
-#EXTINF:0 tvg-id="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",Indosiar
+#EXTINF:0 tvg-id="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0414_221130_1115
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal", MOJI TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFsRPQqoW1j34LQV6W9eRiFyDtX_Lj5t3Xg&usqp=CAU" group-title="Lokal", MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://github.com/mimipipi22/nontontv/raw/main/FMX/moji.m3u8
 
@@ -136,7 +136,7 @@ https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:0 tvg-id="MusicTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6mqgzi6O5BIo5rKZhPkZQAS75dI9Y0ESnw&usqp=CAU" group-title="Entertainment",Music TV
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="Movies",Chinese Drama
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png/revision/latest/scale-to-width-down/200?cb=20190921115414" group-title="Movies",Chinese Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298516
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Movies",CinemaWorld
