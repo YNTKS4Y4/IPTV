@@ -5,7 +5,7 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAYLIST INI GRATIS!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGUDKe0ENqE366lFGNdsYi5Onu8qAtFx4jQ&usqp=CAU" group-title="INFO",JIKA EROR REFRESH ULANG APK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-https://video.xx.fbcdn.net/v/t39.25447-2/354451468_24203108065954613_3084916782487322481_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=9c5c06&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfaTRsaXRlYmFzaWNfNXNlY2dvcF9ocTJfZnJhZ18yX3ZpZGVvIn0=&_nc_ohc=bLJkcu5RIRkAX-UYda1&_nc_ht=video-hel3-1.xx&oh=00_AfBw7Y2R_N_zwrshYYwuDJJFTlM_TpKnmxSlBCOy1gXjAQ&oe=64959716
+https://video.xx.fbcdn.net/v/t42.1790-2/355378956_655531579323305_4668819805579206718_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=nyuxgAMJ8FMAX_ncHMb&rl=300&vabr=32&_nc_ht=video-cdg4-2.xx&oh=00_AfCy1oLsCmOL40IW-UxDHao3s4PkwHUjywjfKgl9xFD0jw&oe=6499D99D
 
 #EXTINF:0 tvg-id="RCTI" group-title="Lokal" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
