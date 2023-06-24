@@ -183,14 +183,8 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/196480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/221948
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsp_VzgrsLhmHBS86QqdpHDPLjj0rq_8ZNMA&usqp=CAU" group-title="Movies",HBO Asia
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941648&extension=m3u8&play_token=xdbt7BgLik683152
-
 #EXTINF:-1  group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK0BmR_rwkMqKcD2zvTkcpQ-5XKjEr-012g&usqp=CAU",HBO Extreme
 http://208.115.225.174:14165
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/LXqKPTcz/20230526-204056.png",HBO 2 HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
 #EXTINF:-1  group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwet79jPRiw_fDym3t1cj8K0JqdpMD9Vz2A&usqp=CAU",HBO Mundi
 http://208.115.225.174:14148
@@ -700,22 +694,6 @@ http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43373
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngHh6IF2z5kdjdNPRJ-riSXvnBPYBB5IPLg&usqp=CAU",VOO SPORT WORLD 3 FHD
 http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/51533
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeTNBYr0VPVNaLOJBP63EHlsPcdaw3TD7FQ&usqp=CAU",ELEVEN SPORTS 1 HD
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/5270
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",ELEVEN SPORTS 2 HD
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/5271
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVENSPORT 1 (NL)
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43351
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVENSPORT 1 (FR)
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43352
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVENSPORT 2 (FR)
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43354
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVENSPORT 3 (NL)
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43355
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVENSPORT 3 (FR)
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/43356
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3Fh3wOdM4T8hJldFG0a3YlRUkW6-VBm5vg&usqp=CAU",ELEVEN SPORTS 3 HD
-http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/39715
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="SPORT PREMIUM",Bein Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
