@@ -15,7 +15,7 @@ http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1753
 http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/1492
 #EXTINF:0 tvg-id="MOTOGP" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563&play_token=zulkarnain@.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
