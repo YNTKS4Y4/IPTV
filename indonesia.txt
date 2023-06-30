@@ -24,6 +24,15 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="Lokal" tvg-id="SCTV.id", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="Kids" tvg-id="mentariid",Mentari TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298546
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWG9eMW4Jv5gKceIkIBUufBdElUjj5OmrAvw&usqp=CAU" group-title="Kids" tvg-id="hip",Hip Hip Horee!
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298536
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCO8j-f7zvnvsQsbYy2NyH0qWNCSnCxgdKjg&usqp=CAU" group-title="Kids" tvg-id="hore",Horee!
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264750
+
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="Lokal" tvg-id="SCTV.id", SCTV 2
 https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 
