@@ -40,6 +40,10 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157591.ts
 
+#EXTINF:0 tvg-id="indikidsid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU" group-title="Kids",Indi Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298539
+
 #EXTINF:0 tvg-id="RCTI" group-title="Lokal" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
