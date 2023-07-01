@@ -1022,7 +1022,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd?token_zulkarnaien66
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
 
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://s.id/1CXWT",MNC Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
