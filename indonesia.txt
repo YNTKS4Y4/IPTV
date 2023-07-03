@@ -1,4 +1,8 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:1688372065
+#EXT-X-TARGETDURATION:4
 
 url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -23,6 +27,8 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="Lokal" tvg-id="SCTV.id", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwhJ7cvhSdrcVfN0U0Ht9fbUxog2g2rflAQ&usqp=CAU" group-title="PREMIUIM" tvg-id="videoid",Video
+https://playasport.envivo.cloud/live/108c486e38285c37.m3u8?txSecret=d90cc17ca63c6b97f24d6112bae934d5&txTime=64A3D2E4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="Kids" tvg-id="mentariid",Mentari TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298546
