@@ -90,9 +90,9 @@ http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/10167
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal", Indosiar (VIDIO)
+#EXTINF: -1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal", Indosiar FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://vidautorolling-46c7387f799d.herokuapp.com/index.m3u8?id=205
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
