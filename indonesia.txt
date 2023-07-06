@@ -69,6 +69,10 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://github.com/mimipipi22/nontontv/raw/main/FMX/trans7.m3u8
 
+#EXTINF:0 group-title="nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7jj_60EpjMh0HtEy8EYFu4X6uaZKyP0bBcZYiTCiLMD)/dm/3/x6p1gw7/d/live-3.m3u8#cell=lsg1
+
 #EXTINF: -1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://logo.iptveditor.com/trans7.png" group-title="nasional", Trans 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/162502
