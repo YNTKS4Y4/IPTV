@@ -1295,6 +1295,14 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://app-etslive-2.vidio.com/live/6685/master.m3u8
 
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8F4Pm_6H7GcmGZvkYGeL6IkNHqOysHrAVXg&usqp=CAU",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://app-etslive-2.vidio.com/live/6686/master.m3u8
+
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVSLGXABND-PgNpNK_u7rHf4Zg8sR-uhLyA&usqp=CAU",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://app-etslive-2.vidio.com/live/6786/master.m3u8
+
 #EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://s.id/1CXOn", Spotv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
