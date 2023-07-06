@@ -89,7 +89,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/trans7.m3u8
 
 #EXTINF:0 group-title="nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7jj_60EpjMh0HtEy8EYFu4X6uaZKyP0bBcZYiTCiLMD)/dm/3/x6p1gw7/d/live-3.m3u8#cell=lsg1
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://logo.iptveditor.com/trans7.png" group-title="nasional", Trans 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
@@ -162,7 +162,7 @@ https://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:0 tvg-id="TransTV.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="nasional",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-id="TransTV.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="nasional",Trans TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
