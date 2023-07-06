@@ -24,6 +24,22 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:0 tvg-id="sportpleu" group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sport%2B_logo_%282002-2011%29.svg/1280px-Sport%2B_logo_%282002-2011%29.svg.png",SPORT PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8be2ca3f-2c38-424b-b3ae-5f69b3f27eee/0.m3u8
+
+#EXTINF:0 tvg-id="newsneteu" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",News Net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/a49b7063-4c37-47df-9236-152a558abe6d/3.m3u8
+
+#EXTINF:0 tvg-id="matvid" group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1688571713.m3u8
+
+#EXTINF:0 tvg-id="imspiraid" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/400px-Inspira.png",INSPIRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
 #EXTINF:0 tvg-id="garudatvid" group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU",GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://streamweb.garuda.tv/live/garudatv/chunklist_w1821887822.m3u8
