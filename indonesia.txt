@@ -24,11 +24,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:0 tvg-id="garudatvid" group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU",GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://streamweb.garuda.tv/live/garudatv/chunklist_w1151317937.m3u8
-
-#EXTINF:0 tvg-id="denaitvid" group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWzMGkbnj13lFCVzYQcTXTmC9Ny8VMBbHCMg&usqp=CAU",PADANG TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CrsFaFhRV8G1tH8h_Lvz9UPu0QwIdjgOb60HP3Qjvz2rtee1SNSIkFS20aU0oN_F7HORkaKOki8QI_uzBud4NaGZagZUzvnhgEz1P7QxlrEA-juQcnc_T7V4OiT427044vRR31FNhwm8XS0TpIO4n-d1B0C42F-JbSSpG3n5r4WYtg8bRbeqS-veC_tWkcGld6Gm5NPdkdb9iWfTMEvZ4WjgyjxJDynLeCEzIkoawGaN0BYWffimDX3tdPhAoegUmnNhXPWqlbMuHqvCli189egRgCBlrWcJ5V7n9LsOYpb-NV6v4LFWiLvnGyJv8rc6zE3qiL_G7a_Eo6do_OBufqAEJajKqd-gpv-dwhj1oK80JV3B3tvNM96wRF3yIguiC_O1Mm5nOFrRoTOcbw-RXB1nAxmH1yzlmucmvBVA51xtUN1PoVqnGzidZTZaCg-9Mg_jq5hB6SBH13ROX5QmjIkVs13nnx2YM5EYwFgUez1NyLo5qwxCtWd7RIj4ReXVK2OlqHAfjtA-lyAKTKxK0Hd9Wrt96S6zNvLr2il72H8tS45ILK4kNc9_0Fo0k25V1eUP9MgZ_ck5EpwYCIV4yJwCYNIf_BuA62We-mnY3JQjKS3lM9g1GE1F6H_dogQ3fKMtiI4zLuU6rsfeUB7kam6KefKd8yMc6u_v7ORXC0iuNmfWxSBqSjt7o0J_OUIKpDjA8hWZ7F3
+https://streamweb.garuda.tv/live/garudatv/chunklist_w1821887822.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszZ-gVOLVyzL3Izgi-ZFzH5eglZX-bBoOQ&usqp=CAU" group-title="Kids" tvg-id="mentariid",Mentari TV
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298546
