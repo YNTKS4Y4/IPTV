@@ -1274,23 +1274,10 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts&play_token=zulkarnain@.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts&play_token=zulkarnain@.ts
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png",Champions TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd?token _Zulkarnain66
 
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv5.id" tvg-logo="https://i.imgur.com/pqvRLXh.png",Champions TV 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cb5cc747f5f71e381f0c7d71863eb6a:c70742da755e9a27217223f56b8a8266
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR53Yb1vXJw9CZ9dRQF_mHvsEngX4K84RAUA&usqp=CAU",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd?token_zulkarnain66
-
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-id="championstv6.id" tvg-logo="https://i.imgur.com/yx4sCwr.png",Champions TV 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=923deae82891e37b282b71ba508fb3bc:62c82a4c668811372b4eb374bd75c55b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd?token_zulkarnain66
+https://app-etslive-2.vidio.com/live/6685/master.m3u8
 
 #EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://s.id/1CXOn", Spotv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
