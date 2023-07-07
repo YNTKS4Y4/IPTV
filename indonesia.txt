@@ -24,6 +24,10 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:0 tvg-id="dunialainid" group-title="nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/298524
+
 #EXTINF:0 tvg-id="sportpleu" group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sport%2B_logo_%282002-2011%29.svg/1280px-Sport%2B_logo_%282002-2011%29.svg.png",SPORT PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8be2ca3f-2c38-424b-b3ae-5f69b3f27eee/0.m3u8
