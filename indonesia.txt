@@ -23,28 +23,28 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg",Polsat Sport Extra
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="SPORT PREMIUM",polsat Sport Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/353
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png",Polsat Sport FIGHT
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="SPORT PREMIUM",polsat Sport FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/26592
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/2560px-Polsat_Sport_Premium_1_Poziome_2021.svg.png",Polsat Sport Premium 1
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/2560px-Polsat_Sport_Premium_1_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/23199
-#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ48X-ntU-M8tLOArBekuCch3eq_hcX64CTg&usqp=CAU",Polsat Sport Premium 2
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ48X-ntU-M8tLOArBekuCch3eq_hcX64CTg&usqp=CAU" group-title="SPORT PREMIUM",polsat Sport Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/29607
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Premium_3_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_3_PPV_Poziome_2021.svg.png",Polsat Sport Premium 3
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Premium_3_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_3_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/147031
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Polsat_Sport_Premium_4_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_4_PPV_Poziome_2021.svg.png",Polsat Sport Premium 4
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Polsat_Sport_Premium_4_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_4_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/147034
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png?20210819215508",Polsat Sport Premium 5
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png?20210819215508" group-title="SPORT PREMIUM",polsat Sport Premium 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/147035
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png?20210819215535",Polsat Sport Premium 6
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png?20210819215535" group-title="SPORT PREMIUM",polsat Sport Premium 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/147036
 
