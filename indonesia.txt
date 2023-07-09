@@ -102,11 +102,11 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 
 #EXTINF:0 tvg-id="RCTI" group-title="nasional" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/157591
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157591
 
 #EXTINF:0 tvg-id="RCTIid" group-title="nasional" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+http://103.180.119.90:9911/stream/channelid/172523773?profile=pass
 
 #EXTINF:0 tvg-id="Indosiar" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="nasional",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
