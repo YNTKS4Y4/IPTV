@@ -945,7 +945,7 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 https://h1.intechmedia.net/intech/ch20.m3u8
 #EXTINF:-1  group-title="Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDFSD2RmWbYUPZndR2zQtpMDY54ywt8gjlw&usqp=CAU",RadioKita TV
 https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU" groub-title="Religi",Muadz TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU" group-title="Religi",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 https://h1.intechmedia.net/intech/ch9.m3u8
