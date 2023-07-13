@@ -14,6 +14,10 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1845301.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 
+#EXTINF:0 tvg-id="IndoiarIDFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1", INDOSIAR  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
+
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
@@ -61,10 +65,6 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 #EXTINF:0 tvg-id="IndosarInD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1", INDOSIAR   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
-
-#EXTINF:0 tvg-id="IndoiarIDFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1", INDOSIAR  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 
 #EXTINF:0 tvg-id="duialainid" group-title="nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
@@ -945,7 +945,7 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 https://h1.intechmedia.net/intech/ch20.m3u8
 #EXTINF:-1  group-title="Religi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDFSD2RmWbYUPZndR2zQtpMDY54ywt8gjlw&usqp=CAU",RadioKita TV
 https://h1.intechmedia.net/intech/ch16.m3u8
-#EXTINF:-1  group-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU "tvg-logo="bbb",Muadz TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgazsLsd9mXwb_4GJD9V_qB7ktQ8MglfWgHg&usqp=CAU" groub-title="Religi",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 https://h1.intechmedia.net/intech/ch9.m3u8
@@ -1273,17 +1273,13 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16621
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/56191
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="SPORT PREMIUM",STAR SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3630
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/3630
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="SPORT PREMIUM",STAR SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3631
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/3631
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="SPORT PREMIUM",STAR SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/62584
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="SPORT PREMIUM",STAR SPORTS SELECT 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/82628
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="SPORT PREMIUM",STAR SPORTS SELECT 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/16619
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/62584
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 1
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/347
