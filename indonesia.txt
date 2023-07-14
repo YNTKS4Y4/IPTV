@@ -29,6 +29,10 @@ https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
+#EXTINF:0 tvg-id="fashonid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qTdxuMy8rM2p_7FcahvjF_aJVFtHJ8oChQ&usqp=CAU" group-title="Lifestyle",Lifestyle & Fashion  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157592
+
 #EXTINF:0 tvg-id="lifestsyld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LiFE_Channel.svg/1200px-LiFE_Channel.svg.png" group-title="Lifestyle",Life  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/157585
@@ -1366,6 +1370,10 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/48355
 #EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY21DOtOCObcSBrQf_-9WoZ9gYcbFzPEyrsA&usqp=CAU",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/2387
+
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png",DAZN | F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1672
 
 #EXTINF:0 tvg-id="UnifiSports.my" tvg-logo="https://i.postimg.cc/Bn5B25Df/20220927-065221.png" group-title="SPORT PREMIUM",Unifi Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
