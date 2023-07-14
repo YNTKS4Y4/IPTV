@@ -29,6 +29,10 @@ https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
+#EXTINF:0 tvg-id="lifestsyld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LiFE_Channel.svg/1200px-LiFE_Channel.svg.png" group-title="Lifestyle",Life  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157585
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="SPORT PREMIUM",polsat Sport Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/353
