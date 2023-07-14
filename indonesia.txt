@@ -430,7 +430,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?c
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png" group-title="Movies",AXN FHD
-http://103.180.119.90:9911/stream/channelid/2027068864?profile=pass
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/2234
 #EXTINF: -1 tvg-logo="https://i.ibb.co/XF4B53g/AXN-MOVIES.png" group-title="Movies",AXN MOVIES
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/298734
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
