@@ -115,8 +115,8 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/298536
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCO8j-f7zvnvsQsbYy2NyH0qWNCSnCxgdKjg&usqp=CAU" group-title="Kids" tvg-id="hore",Horee!
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/264750
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id", SCTV 2
-https://app-etslive-2.vidio.com/live/204/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkpxbHVJOW5XaTlPR2w2Q2lzM3R6ekh6OFY5a2VjQXJJV1d4bGc5OVNoZ0dlc0UyR3Z2OTVyaHRXR1gwbnRzK1dBZ0k4T0lhcEJoUDdYaFoyTko1anJzZFBJSGVmaGR5S3pvT0dQTWtWMHJvVkVWV1Y5RGRRY3NpRnRmSzVqYW9tWnpoTkVJVUJ4N1A3NURTS2U5Z3FGZWNBRld3Qjh3WnVVTVJ6WDdkL2hBY3liYklOMUsxLzFUMzJwMjVmWFZMRWN4d05yR3YzYWFEYkZVemZWbWMxMGJoTnliSmpPeG5zYTI1Y1BKaTZMeW1XcVVIMHNmYzZ1R1J5UmJRVm01WXpxQkRPby9relF3WVlxQWlxRWd2Tjlib2VUNUlJVjJSNW5FVkc0M1VYZHZZVG52elVOUkd1ZlVWMCtQTFZCMTY3UjBReWNLbmZMZ2YxTTZndTlSbmdOZFE3NkpJeitCaGlsSThnK0F3UkF4N0xWckRZbDdnMzJjVGQ3WDdyb2YxbVlQcUNiaFRDWXV6Y3lPM2NDT3diOEtOV0JndjVLS2YrK1RWK3dvaTF4Wk04bWNBckllNWI0ZFlOZGp3NlV4OFZ1b1VKUHh3NGVqZlc5NkxNTFZ0QUNZY0RNbXdlTHlvVk5oQi9UdjN3UDM1WkljR3JubW9GT01qOUVXYTRQZWhMZ0wwNHdUTjR0bFNiNlpNMVVjZXZHdENEcUY1Y1VlbGdNVmx5WDNENUpDNlA5OHZzUy8vYWliQUNXRzl0SzFsYjkrajhwZ1hpaXFnK2RVM1EwRlQ3ajMzM3FFd3BGbzlUSkNmY3N0a0JMVXkxZXZWMWFBaVRVNnk4bnhTajNGUWhRN25BajV0eWpHNmxEVHg5cmYyb216STJpYWZnMTcvQmNlWnlUamQxSUJySDZrYi9HQ0RFM0xjaHBKWjlLUmRHSjZYTFNGNnFvdlZ5eml6clI3WTF4UT09&trace_id=e47adf79306c0368d4194366c932f9ce/10317660968752105644
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV  
+http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
 #EXTINF:0 tvg-id="RCTI" group-title="nasional" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
