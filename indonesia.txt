@@ -1208,16 +1208,16 @@ http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/41918
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://substance.agency/wp-content/uploads/2016/06/fsp_10.jpg" group-title="SPORT PREMIUM",FOX SOCCER PLUS
 http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/2314
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee4dbWzLsWluiga-sIilK4jg4EboU1MXubA&usqp=CAU" group-title="SPORT PREMIUM",BT Sport 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/270
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee4dbWzLsWluiga-sIilK4jg4EboU1MXubA&usqp=CAU" group-title="SPORT PREMIUM",BT Sport 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/273
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee4dbWzLsWluiga-sIilK4jg4EboU1MXubA&usqp=CAU" group-title="SPORT PREMIUM",BT Sport 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/271
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQee4dbWzLsWluiga-sIilK4jg4EboU1MXubA&usqp=CAU" group-title="SPORT PREMIUM",BT Sport 4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/1eae94e3/GpDddDC8ddMxhY2n/298471
 
