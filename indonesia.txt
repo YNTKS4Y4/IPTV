@@ -3004,3 +3004,161 @@ https://www.googleapis.com/drive/v3/files/1LIgP9wx6Bq0Y3mAKuCrfrKofVGmDXedl?alt=
 https://www.googleapis.com/drive/v3/files/1au0PSoXgN1OPDsMgh9h9XaDp73_O0ZpN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="SERIES",Transformers: The Last Knight
 https://www.googleapis.com/drive/v3/files/1LOF2bS9OS3B28gqZVAP7IbCVcrXnegat?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d83IBwT.jpg" group-title="FILM",Matriarch (2022)
+https://www.googleapis.com/drive/v3/files/1LjwNvGlK1km-7ebD_PuHQDXMTRywABLV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNSNAQt.jpg" group-title="FILM",35MM (2022)
+https://mastro-tv.vercel.app/api/raw/?path=/Movies/MalayMovies/35mm.2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0QMvQ5.jpg" group-title="FILM",Black Adam (2022)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Adam.2022/Black.Adam.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThqMw6J.jpg" group-title="FILM",Defense: Secret Escort (2022)
+https://www.googleapis.com/drive/v3/files/1uUWtMT3kfgW3uMVSctX-l7X10rKqzxrT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fW0nGBm.jpg" group-title="FILM",Halloween Ends (2022)
+https://www.googleapis.com/drive/v3/files/1ir3GdQZY1TJ4t2ye1Ju7hrL29-E03jSk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DoFYUit.jpg" group-title="FILM",Old Man (2022)
+https://www.googleapis.com/drive/v3/files/15nKE_tcqzxc_Ue1SPeFytlkO_uuUjm2h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OUg11gD.jpg" group-title="FILM",Clerks III (2022)
+https://www.googleapis.com/drive/v3/files/14B4O_pb2En4L7KEyqBNV1QFkDLrnWydG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJlRad8.jpg" group-title="FILM",JugJugg Jeeyo (2022)
+https://data03.streamku.xyz/mv/9a-jug.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iUbRYGW.jpg" group-title="FILM",Minions: The Rise of Gru (2022)
+https://data03.streamku.xyz/mv/30a-minions.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcmvHEL.jpg" group-title="FILM",Lightyear (2022)
+https://data03.streamku.xyz/mv/21a-lightyear.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lOqiCj.jpg" group-title="FILM",Me Time (2022)
+https://data03.streamku.xyz/mv/29a-me.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cr6323.jpg" group-title="FILM",Samaritan (2022)
+https://data03.streamku.xyz/mv/29a-samaritan.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71uJFSg.jpg" group-title="FILM",The Girl on a Bulldozer (2022)
+https://streamku.xyz/stream/360/WMgURrMEYrHcnNb/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vs8EXqP.jpg" group-title="FILM",The Battle at Lake Changjin II (2022)
+https://data03.streamku.xyz/mv/a-water.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XspPLlB.jpg" group-title="FILM",Jurassic World Dominion (2022)
+https://data03.streamku.xyz/mv/13a-jurassic.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7tcBl1.jpg" group-title="FILM",Secret Headquarters (2022)
+https://data03.streamku.xyz/mv/19a-secret.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZuejjG.jpg" group-title="FILM",Luck (2022)
+https://data03.streamku.xyz/mv/14a-luck.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QG6jUPB.jpg" group-title="FILM",Prey (2022)
+https://data03.streamku.xyz/mv/14a-prey.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWZZok1.jpg" group-title="FILM",Purple Hearts (2022)
+https://data03.streamku.xyz/mv/11a-purple.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX3zGpT.jpg" group-title="FILM",Paradise Highway (2022)
+https://data03.streamku.xyz/mv/11a-paradise.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Jpsyya.jpg" group-title="FILM",Honor Society (2022)
+https://data03.streamku.xyz/mv/11a-honor.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SKdp6Oe.jpg" group-title="FILM",Not Okay (2022)
+https://data03.streamku.xyz/mv/20a-not.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQQkvuD.jpg" group-title="FILM",The Roundup (2022)
+https://data03.streamku.xyz/mv/7a-roundup.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TZfXda.jpg" group-title="FILM",The Gray Man (2022)
+https://data03.streamku.xyz/mv/6a-gray.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjwFrSu.jpg" group-title="FILM",Vikram (2022)
+https://data03.streamku.xyz/mv/6a-vikram.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYah8lq.jpg" group-title="FILM",The Sea Beast (2022)
+https://v2.streamku.xyz/stream/360/XebjyHpgou6wy2j/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3tPn4d.jpg" group-title="FILM",Fantastic Beasts: The Secrets of Dumbledore (2022)
+https://streamku.xyz/stream/360/LyMF8ppkgriVfxJ/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjuZnSz.jpg" group-title="FILM",Ip Man: The Awakening (2022)
+https://v2.streamku.xyz/stream/360/3XFl3KgrzKFM9HZ/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDwyg3q.jpg" group-title="FILM",Ambulance (2022)
+https://streamku.xyz/stream/360/7TJY4wXkX0oNmgw/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFgvFiz.jpg" group-title="FILM",The Northman (2022)
+https://streamku.xyz/stream/360/d0pqLGnJq3IqWRo/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSkgMXN.jpg" group-title="FILM",Hustle (2022)
+https://streamku.xyz/stream/360/b9lP622y2tP0Feg/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lj5WTqS.jpg" group-title="FILM",Sarkaru Vaari Paata (2022)
+https://streamku.xyz/stream/360/9zBJXpW8XmdurRm/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxOlnk0.jpg" group-title="FILM",A Day to Die (2022)
+https://streamku.xyz/stream/360/vNLDfHuaS4N7UPE/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2xOS53.jpg" group-title="FILM",The Bad Guys (2022)
+https://streamku.xyz/stream/360/YZ8EUWU5cUpDjeT/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0k9RES.jpg" group-title="FILM",The Batman (2022)
+https://streamku.xyz/stream/360/xfJ5HdmyTbRwwIZ/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcnuWsP.jpg" group-title="FILM",Chip &#8216;n Dale: Rescue Rangers (2022)
+https://streamku.xyz/stream/360/ZNcDqbFWjMd9ywV/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8DRFMqN.jpg" group-title="FILM",K.G.F: Chapter 2 (2022)
+https://streamku.xyz/stream/360/hPpc5C910yB5vWX/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hIOXJd.jpg" group-title="FILM",The Takedown (2022)
+https://streamku.xyz/stream/360/GZFC8DEnJPr8h7T/__001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3ZM2fO.jpg" group-title="FILM",Hotel Transylvania: Transformania (2022)
+https://v2.streamku.xyz/stream/360/z8p7xrae4FaUrq0/__001
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg" group-title="FILM",Doctor Strange in The Multiverse of Madness 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_FMjpg_UX1000_.jpg" group-title="FILM",Fantastic Beasts The Secrets of Dumbledore 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg" group-title="FILM",Fast and Furious F9 The Fast Saga 2021
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiOWJlYzItNjg2Ny00MTA1LTg0ODAtMzQzYWU1NDU2NmUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="FILM",Godzilla vs Kong 2021 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzilla.vs.Kong.2021.1080p.BrRip-ms.en.id-PENCURiMOViE.CYOU.mkv.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiOWJlYzItNjg2Ny00MTA1LTg0ODAtMzQzYWU1NDU2NmUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="FILM",Godzilla vs Kong 2021 (2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzilla.vs.Kong.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ.mkv
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpg" group-title="FILM",Home Sweet Home Alone 2021 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.1080p.WEBRip.x264-RARBG.mkv
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg" group-title="FILMFILMFILM",Home Sweet Home Alone 2021 (2160p)Eternals 2021 (2160p)Eternals 2021 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="FILM",No Time to Die 2021 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="FILM",No Time to Die 2021 (2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-NOTIMETOCRY.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="FILM",The Adam Project 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Adam.Project.2022/The.Adam.Project.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpghttps://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg" group-title="FILMFILM",The Batman 2022(1080p)The Batman 2022(2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="FILM",The King's Man 2021(2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="FILM",The King's Man 2021(1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.DDP5.1.DHM.WEB-DL.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3DofDWwP3tpX7YKzQWGJjiXQ8xIeQNoa8Q&usqp=CAU" group-title="FILM",Avatar (2009) Dubbing Indonesia
+https://cldup.com/iis9f0vRVzl.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1xT20ecqV2cpEFel1NEdnR9B4klK76FQNw&usqp=CAU" group-title="FILM",Babys Day Out (1994) Dubbing Indoonesia
+https://cldup.com/i826t7RUsbC.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-r91XF-2telN2MPC-xVtrE88sHa64Aqojg&usqp=CAU" group-title="FILM",The Amazing Spider-Man 2 (2014) Indo Dub
+https://cloud.dubbindo.xyz/upload/videos/2022/11/F6BFkB9WEbroG5rj9DAc_06_b3c82308e03ee7519ddec151fb6a4592_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YMFcpiQ.jpg" group-title="FILM",Scooby-Doo! (2005)
+https://lh3.googleusercontent.com/Hca942oPRyaQMmYwrXXyVT3cbvkPFUcf0awP6SdBQTbX5cayhCHi429tLeEjE8ZyMngLxy5nzKlZiKAe5w=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/lTiqWPc.jpg" group-title="FILM",The Incredibles (2004)
+https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg" group-title="FILM",The Animatrix (2003)
+https://lh3.googleusercontent.com/w-rIc-U5JWPeWNmb6LDLy99o9A03aSqPYK9IdxF8EDDOPCJvSQEKbUfIuBHTwIf6-KkQYj7CSlwL3NePoQ=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/RhMIDnp.jpg" group-title="FILM",Ice Age (2002)
+https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg" group-title="FILM",Lilo & Stitch (2002)
+https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94USqf182zlQS6a1utV7jiFAzhrqcj9wE-nMaJA=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg" group-title="FILM",Inc. (2001)
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="FILM",Aladin (1993)
+https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ2MzJmZGMtZjhmNS00MGUyLWJjOGMtYzVmMTg4OTA2YzZkXkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_.jpghttps://m.media-amazon.com/images/M/MV5BMzQ2MzJmZGMtZjhmNS00MGUyLWJjOGMtYzVmMTg4OTA2YzZkXkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_.jpghttps://m.media-amazon.com/images/M/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpghttps://m.media-amazon.com/images/M/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="FILMFILMFILMFILM",Stand by Me Doraemon 2 Japanese(2020)Stand by Me Doraemon 2 Malay(2020)Minions:The Rise of Gru 2022 (1080p)Minions:The Rise of Gru 2022 (2160p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Minions.The.Rise.of.Gru.2022/Minions.The.Rise.of.Gru.2022.2160p.MA.WEB-DL.DDP5.1.Atmos.HEVC-CMRG.mkv
+#EXTINF:-1 tvg-logo="https://media.karousell.com/media/photos/products/2022/5/4/sonic_the_hedgehog_2_2022_blur_1651641212_df454a7f_progressive" group-title="FILM",Sonic The Hedgehog 2 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.The.Hedgehog.2.2022.1080p.WEB-DL.x264.DD5.1-EVO.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZkZDk5MjAtYWU4NC00MzE0LTg2NTUtMDgzNzcyNjgxNDFiXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg" group-title="FILM",Sonic The Hedgehog 2020 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.the.Hedgehog.2020.NF.WEBDL.1080p.POR.FRA.ZHO.CES.ENG.SPA.HEB.HUN.ITA.JPN.POL.RON.RUS.THA.TUR.UKR.VIE.EAC3.H.264-AstradaMY.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhXciMnMAzB_UUhC4S1T3sVkILhxF72gl7g&usqp=CAU" group-title="FILM",A Bug's Life (1998) Dubbing Indonesia
+https://cldup.com/iYJtn0fh10Y.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLk_B1MxVU2NOzJr8gEIg1BeT8xKr2rN5uw&usqp=CAU" group-title="FILM",Kung Fu Panda (2008) Dubbing Indonesia
+https://cldup.com/iZBLW8MP4Tp.mp4?download=Kung.Fu.Panda.2008.HDTV.720p.Dubbing_UVideo.xyz.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e6/Kung_Fu_Panda_3_poster.jpg/220px-Kung_Fu_Panda_3_poster.jpg" group-title="FILM",Kung Fu Panda 3 (2016) Dubbing Indonesia
+https://cldup.com/iCs_X1j_ZZ4.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLk_B1MxVU2NOzJr8gEIg1BeT8xKr2rN5uw&usqp=CAUhttps://upload.wikimedia.org/wikipedia/id/c/cf/Boruto_-_Naruto_the_Movie.png" group-title="FILMFILM",Kung Fu Panda (2008) Dubbing IndonesiaBoruto: Naruto the Movie Dubbing Indonesia
+https://cldup.com/iT78eUnPLvQ.mkv?download=Boruto-Naruto.The.Movie.Dubbing.Indonesia.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmlKeCFr9DDELpHSZ1cPPeKxUCKU5YKvpDQ&usqp=CAU" group-title="FILM",The SpongeBob Movie: Sponge on the Run (2020) Dubbing Indonesia
+https://cldup.com/icKSW67vi7U.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaPPa7C6BRHYJ9l_kkQUULwPL4teofIVrUA&usqp=CAU" group-title="FILM",Big Hero 6 (2014) Dubbing Indonesia
+https://cldup.com/iGXotzJnGCO.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5v3P2E1wSP2sjq2R83YW2H8WU-asFDxAQkg&usqp=CAU" group-title="FILM",Upin & Ipin: Keris Siamang Tunggal (2019) Dubbing Indonesia
+https://cloud.dubbindo.xyz/upload/videos/2021/10/UpinandIpinKerisSiamangTunggal2019WEB720p_19_kq7j5dy8dpzf_video_360p_converted.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/44/One_Piece_Film_Red_Visual_Poster.jpghttps://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_film.jpg" group-title="FILMFILM",One Piece Film: Red (2022)Toy Story (1995) Dubbing Indonesia
+https://cldup.com/iAs8qzOwTf8.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jMoV060_KlJWT6B-xJgwa-r8-R8xM5u3iw&usqp=CAU" group-title="FILM",Cars 3 (2017) Subtitle Indonesia
+https://cldup.com/umeprGE6CKg/PBahru.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg" group-title="FILM",Makmum 2019
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2019.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IyOWU4ZjgtNzdjOC00ZDRkLTk2ZmYtYWFlNzdlY2I0ZGRlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="FILM",Makmum 2
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Makmum/Makmum.2.2021.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2mWGOQeagFWVDA2oxIxX6pHIkCF0_pJ6Vw&usqp=CAU" group-title="FILM",YOWIS BEN 3
+https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Preman_in_Love.jpg" group-title="FILM",Preman in Love
+https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSEHcFldagJwcXsUsaJDEfLHeLZUvXUoZoA&usqp=CAU" group-title="FILM",Gila Lu Ndro!
+https://www.googleapis.com/drive/v3/files/1Te5f1B2lnT7Kqex9MIaAXHJgLoJZpfeH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
