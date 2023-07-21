@@ -3150,6 +3150,8 @@ https://cldup.com/iGXotzJnGCO.mp4
 https://cloud.dubbindo.xyz/upload/videos/2021/10/UpinandIpinKerisSiamangTunggal2019WEB720p_19_kq7j5dy8dpzf_video_360p_converted.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/44/One_Piece_Film_Red_Visual_Poster.jpghttps://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_film.jpg" group-title="FILMFILM",One Piece Film: Red (2022)Toy Story (1995) Dubbing Indonesia
 https://cldup.com/iAs8qzOwTf8.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbWHfxPFHZe1eXwiog4aw1hcglGkBZuIH6g&usqp=CAU" group-title="FILM",WAKTU MAGHRIB
+https://www.googleapis.com/drive/v3/files/1gpLWsYY60UBlJ1D4dKYBmsTlAAxC3TGg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jMoV060_KlJWT6B-xJgwa-r8-R8xM5u3iw&usqp=CAU" group-title="FILM",Cars 3 (2017) Subtitle Indonesia
 https://cldup.com/umeprGE6CKg/PBahru.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yeXHDPTad5C1ekUznj0OWeFyBgD.jpg" group-title="FILM",Makmum 2019
