@@ -3094,7 +3094,7 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzi
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Godzilla.vs.Kong.2021/Godzilla.vs.Kong.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ.mkv
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpg" group-title="FILM",Home Sweet Home Alone 2021 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.1080p.WEBRip.x264-RARBG.mkv
-#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg" group-title="FILMFILMFILM",Home Sweet Home Alone 2021 (2160p)Eternals 2021 (2160p)Eternals 2021 (1080p)
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2021/11/Home-Sweet-Home-Alone-poster-1.jpghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeghttps://pic.rmb.bdstatic.com/bjh/622c7b4343bfa3d127b0b69791e84eda.jpeg" group-title="FILM",Home Sweet Home Alone 2021 (2160p)Eternals 2021 (2160p)Eternals 2021 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="FILM",No Time to Die 2021 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
@@ -3102,7 +3102,7 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/No.Time.to.Die.2021/No.Time
 https://onedrive.astradamy.com/api/raw/?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-NOTIMETOCRY.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="FILM",The Adam Project 2022 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Adam.Project.2022/The.Adam.Project.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpghttps://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg" group-title="FILMFILM",The Batman 2022(1080p)The Batman 2022(2160p)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpghttps://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg" group-title="FILM",The Batman 2022(1080p)The Batman 2022(2160p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="FILM",The King's Man 2021(2160p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/The.King's.Man.2021/The.King's.Man.2021.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.mkv
@@ -3138,7 +3138,7 @@ https://cldup.com/iYJtn0fh10Y.mp4
 https://cldup.com/iZBLW8MP4Tp.mp4?download=Kung.Fu.Panda.2008.HDTV.720p.Dubbing_UVideo.xyz.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e6/Kung_Fu_Panda_3_poster.jpg/220px-Kung_Fu_Panda_3_poster.jpg" group-title="FILM",Kung Fu Panda 3 (2016) Dubbing Indonesia
 https://cldup.com/iCs_X1j_ZZ4.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLk_B1MxVU2NOzJr8gEIg1BeT8xKr2rN5uw&usqp=CAUhttps://upload.wikimedia.org/wikipedia/id/c/cf/Boruto_-_Naruto_the_Movie.png" group-title="FILMFILM",Kung Fu Panda (2008) Dubbing IndonesiaBoruto: Naruto the Movie Dubbing Indonesia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLk_B1MxVU2NOzJr8gEIg1BeT8xKr2rN5uw&usqp=CAUhttps://upload.wikimedia.org/wikipedia/id/c/cf/Boruto_-_Naruto_the_Movie.png" group-title="FILM",Kung Fu Panda (2008) Dubbing IndonesiaBoruto: Naruto the Movie Dubbing Indonesia
 https://cldup.com/iT78eUnPLvQ.mkv?download=Boruto-Naruto.The.Movie.Dubbing.Indonesia.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmlKeCFr9DDELpHSZ1cPPeKxUCKU5YKvpDQ&usqp=CAU" group-title="FILM",The SpongeBob Movie: Sponge on the Run (2020) Dubbing Indonesia
 https://cldup.com/icKSW67vi7U.mp4
@@ -3146,7 +3146,7 @@ https://cldup.com/icKSW67vi7U.mp4
 https://cldup.com/iGXotzJnGCO.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5v3P2E1wSP2sjq2R83YW2H8WU-asFDxAQkg&usqp=CAU" group-title="FILM",Upin & Ipin: Keris Siamang Tunggal (2019) Dubbing Indonesia
 https://cloud.dubbindo.xyz/upload/videos/2021/10/UpinandIpinKerisSiamangTunggal2019WEB720p_19_kq7j5dy8dpzf_video_360p_converted.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/44/One_Piece_Film_Red_Visual_Poster.jpghttps://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_film.jpg" group-title="FILMFILM",One Piece Film: Red (2022)Toy Story (1995) Dubbing Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/44/One_Piece_Film_Red_Visual_Poster.jpghttps://upload.wikimedia.org/wikipedia/id/7/70/Toy_Story_film.jpg" group-title="FILM",One Piece Film: Red (2022)Toy Story (1995) Dubbing Indonesia
 https://cldup.com/iAs8qzOwTf8.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbWHfxPFHZe1eXwiog4aw1hcglGkBZuIH6g&usqp=CAU" group-title="FILM",WAKTU MAGHRIB
 https://www.googleapis.com/drive/v3/files/1gpLWsYY60UBlJ1D4dKYBmsTlAAxC3TGg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
