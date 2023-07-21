@@ -1170,11 +1170,11 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/298570
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/298571
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYzloFhYzBpvfFSa92HMuvDiYYEN7JiKPCg&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/280370
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/40839
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYzloFhYzBpvfFSa92HMuvDiYYEN7JiKPCg&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS 2
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/3187
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/40840
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYzloFhYzBpvfFSa92HMuvDiYYEN7JiKPCg&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/10921
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/3042
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc3lof7LJbulM5TVkJuXEXlzy6N6wBn-pVA&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS Premium
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/3203
 
