@@ -94,6 +94,10 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/162592
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="SPORT PREMIUM",True Sport 4
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/285569
 
+#EXTINF:0 tvg-id="" tvg-name="pptv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/PPTV_HD_36_Logo.png" group-title="Entertainment",PPTV 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/281639
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="SPORT PREMIUM",polsat Sport Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/353
