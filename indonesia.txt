@@ -1,0 +1,19 @@
+#EXTM3U
+url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxVJ7lMrtR58F9OMWf9G8VFyDw1vPeZG_CA&usqp=CAU" group-title="INFO",DONASI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1845301.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlMDg5yjYPjlahAXGWq3nA65rwYOQkS_-iA&usqp=CAU" group-title="INFO",KONEKTIVITAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroHH9xgyCJGjVLkOf8OJCxLW7o4JWWRDiRw&usqp=CAU" group-title="INFO",CARA DONASI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://github.com/YNTKS4Y4/IPTV/raw/main/CARADONASI.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrog0D52x486Qd3kAY9UgxmPlpx9kEmFodw&usqp=CAU" group-title="INFO",WAJIB DIBACA !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://github.com/YNTKS4Y4/IPTV/raw/main/BAGI%20YG%20BLM%20DONASI.mp4
